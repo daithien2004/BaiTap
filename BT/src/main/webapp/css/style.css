@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+	box-sizing: border-box;   
+}
+ 
+h1{
+ 	color: #ed4912;
+}
+
+button a {
+   	text-decoration: none; /* Bỏ gạch chân */
+   	color: inherit; /* Kế thừa màu từ màu chữ của nút (chưa css nut nên là mặc định)*/
+}
